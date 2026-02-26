@@ -19,6 +19,10 @@
             "icon": "command-icon"
           }
         ]
+      },
+      {
+        "group": "Projects",
+        "pages": []
       }
     ]
   }
