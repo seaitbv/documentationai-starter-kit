@@ -14,6 +14,10 @@
         "group": "Claude",
         "pages": [
           {
+            "title": "Writing documentation",
+            "path": "writing-documentation"
+          },
+          {
             "title": "Commands",
             "path": "commands",
             "icon": "command-icon"
